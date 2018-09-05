@@ -1,0 +1,10 @@
+*.xml
+*.prefs
+*.component
+*.properties
+*.MF
+*.jpg
+*.png
+.classpath
+.project
+.springBeans
